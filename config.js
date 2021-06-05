@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    mess: 'Mình biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
     messDesc: 'Hết dịch mình đi chơi nhé :3',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.messenger.com/t/100009785383967' //link mess của các bạn. VD: https://m.me/nam.nodemy
